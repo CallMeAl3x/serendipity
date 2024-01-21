@@ -25,16 +25,13 @@ Le design à été trouvé via une [vidéo youtube](https://www.youtube.com/watc
 
 ### Liens
 
-- [URL du site en direct](https://datavisualisation-cinema.netlify.app)
+- [URL du site en direct](https://serendipity-b-alexandre.netlify.app)
 
 
 ### Construit avec
 
 - Vite (Framework React)
 - TailwindCSS
-- Appels API
-- ChartJS
-- Zustand
 
 ## Auteur
 
