@@ -1,42 +1,41 @@
-# Frontend Mentor - Formulaire interactif de détails de carte (Solution)
+Il s'agit d'un travail personnel afin d'améliorer mes compétences en developpement web.
 
-Il s'agit d'une intégration web d'une maquette que j'ai pu trouver sur Internet, voici le lien vers le figma ![preview](https://www.figma.com/file/4KnM9aHcVCfZCV17BGDczi/Sign-Up-and-Animation-(Community)?type=design&node-id=1801-1580&mode=design&t=GQ5qwKvpGR7fYlS8-0) 
+Le design à été trouvé via une [vidéo youtube](https://www.youtube.com/watch?v=N-rxpuE8lto&t=1166s)
 
 ## Table des matières
 
 - [Aperçu](#aperçu)
+  - [Le défi](#le-défi)
   - [Capture d'écran](#capture-décran)
   - [Liens](#liens)
-- [Ma démarche](#ma-démarche)
   - [Construit avec](#construit-avec)
-  - [Ce que j'ai appris](#ce-que-jai-appris)
 - [Auteur](#auteur)
 
 ## Aperçu
 
+### Le défi
+
+- Réaliser une page web responsive
+- Apprendre Tailwind CSS
+
 ### Capture d'écran
 
-![preview](https://.../src/assets/previews/homepage_preview.png)![preview-mobile](https://.../src/assets/previews/homepage_mobile_preview.png)
+![Desktop](/public/desktop.png)
+![Mobile](/public/mobile.png)
 
 ### Liens
 
-- [URL du site en direct](https://)
+- [URL du site en direct](https://datavisualisation-cinema.netlify.app)
 
-## Ma démarche
-
-...
 
 ### Construit avec
 
-- React with VueJs
-- Tailwind
-- React Routers
-
-### Ce que j'ai appris
-
-..
-
+- Vite (Framework React)
+- TailwindCSS
+- Appels API
+- ChartJS
+- Zustand
 
 ## Auteur
 
-- Site Web - [Bonefons Alexandre](...)
+Alexandre Bonefons 2024
