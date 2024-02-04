@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://serendipity-b-alexandre.netlify.app/*"
+to = "https://serendipity.bonefons.com/:splat"
+status = 301
+force = true
