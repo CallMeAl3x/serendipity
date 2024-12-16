@@ -25,7 +25,7 @@ Le design à été trouvé via une [vidéo youtube](https://www.youtube.com/watc
 
 ### Liens
 
-- [URL du site en direct](https://serendipity-b-alexandre.netlify.app)
+- [URL du site en direct](https://serendipity.bonefons.com)
 
 
 ### Construit avec
