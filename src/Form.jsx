@@ -42,7 +42,7 @@ const Form = () => {
                   Password
                 </label>
 
-                <input type="text" id="password" className="appearance-none rounded-lg p-2 placeholder:p-2" placeholder="****"/>
+                <input type="password" id="password" className="appearance-none rounded-lg p-2 placeholder:p-2" placeholder="****"/>
                 </div>
 
                 <p className="mt-6">Forgot password? <span className="text-[#00CFFD] font-semibold">Reset Password</span></p>
